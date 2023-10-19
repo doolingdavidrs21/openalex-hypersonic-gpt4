@@ -164,9 +164,9 @@ st.markdown("""
 * Hypersonic wind tunnel
 """)
 
-st.markdown("Hypersonic speed:")
-image_hypersonic_speed = Image.open("100px-X-43A_(Hyper_-_X)_Mach_7_computational_fluid_dynamic_(CFD).jpg")
-st.image(image_hypersonic_speed, caption='Hypersonic speed')
+#st.markdown("Hypersonic speed:")
+#image_hypersonic_speed = Image.open("100px-X-43A_(Hyper_-_X)_Mach_7_computational_fluid_dynamic_(CFD).jpg")
+#st.image(image_hypersonic_speed, caption='Hypersonic speed')
 
 
 st.write("Topic modeling")
